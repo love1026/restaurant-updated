@@ -1,0 +1,18 @@
+nav {
+  background-color: pink;
+}
+.navbar-brand img {
+  border-radius: 50%;
+}
+.navbar-brand h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px black;
+  color: green;
+}
+.navbar-brand div h3 {
+  text-transform: uppercase;
+}
+.navbar-collapse {
+  margin-left: 200px;
+}
